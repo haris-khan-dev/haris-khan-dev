@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Haris</h1>
 <h3 align="center">A Passionate Web developer from Pakistan</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haris-khan-dev" alt="haris-khan-dev" /></a> </p>
 
 - 🌱 I’m currently learning **C/C++ language**
 
