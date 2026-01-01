@@ -6,11 +6,11 @@
 
 - 👯 I’m looking to collaborate on **AI projects**
 
-- 👨‍💻 All of my projects are available at [https://haris-khan-dev.github.io/portfolio/](https://haris-khan-dev.github.io/portfolio/)
+- 👨‍💻 My Portfolio: [https://haris-khan-dev.github.io/portfolio/](https://haris-khan-dev.github.io/portfolio/)
 
 - 💬 Ask me about **React, Javascript, Tailwind**
 
-- 📫 How to reach me **harikhan.edu@gmail.com**
+- 📫 How to reach me **hariskhan.edu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
