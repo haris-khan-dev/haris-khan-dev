@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on **AI projects**
 
-- 👨‍💻 My Portfolio: [https://haris-khan-dev.github.io/portfolio/](https://haris-khan-dev.github.io/portfolio/)
+- 👨‍💻 My Portfolio: [https://haris-dev-portfolio.web.app/](https://haris-dev-portfolio.web.app/)
 
 - 💬 Ask me about **React, Javascript, Tailwind**
 
