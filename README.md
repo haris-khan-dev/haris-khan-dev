@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Web developer from Pakistan</h3>
 
 
-- 🌱 I’m currently learning **C/C++ language**
+- 🌱 I’m currently exploring **C++ **
 
 - 👯 I’m looking to collaborate on **AI projects**
 
